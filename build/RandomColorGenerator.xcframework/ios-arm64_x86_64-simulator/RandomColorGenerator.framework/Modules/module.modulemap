@@ -1,0 +1,6 @@
+framework module RandomColorGenerator {
+  umbrella header "RandomColorGenerator.h"
+  export *
+
+  module * { export * }
+}
